@@ -5,11 +5,6 @@
   "minimumCode": 1,
   "downloadUrl": "https://github.com/artaivan46-ui/selamat-release/releases/latest/download/selamat.apk",
   "landingUrl": "https://selamat-app.netlify.app",
-  "releaseNotes": {
-    "en": "Initial release",
-    "ms": "Keluaran pertama",
-    "zh-Hans": "首次发布"
-  },
   "breaking": false,
   "releasedAt": "2026-09-10T00:00:00Z"
 }
