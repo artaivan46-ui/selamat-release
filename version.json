@@ -1,8 +1,8 @@
 {
-  "latest": "0.0.3",
-  "latestCode": 3,
-  "minimum": "0.0.1",
-  "minimumCode": 1,
+  "latest": "0.0.5",
+  "latestCode": 5,
+  "minimum": "0.0.5",
+  "minimumCode": 5,
   "downloadUrl": "https://github.com/artaivan46-ui/selamat-release/releases/latest/download/selamat.apk",
   "landingUrl": "https://selamat-app.netlify.app",
   "breaking": false,
