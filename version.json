@@ -1,10 +1,10 @@
 {
-  "latest": "1.0.3",
-  "latestCode": 8,
+  "latest": "1.1.0",
+  "latestCode": 9,
   "minimum": "1.0.3",
   "minimumCode": 8,
   "downloadUrl": "https://github.com/artaivan46-ui/selamat-release/releases/latest/download/selamat.apk",
   "landingUrl": "https://selamat-app.netlify.app",
   "breaking": false,
-  "releasedAt": "2026-09-21T00:00:00Z"
+  "releasedAt": "2026-10-09T00:00:00Z"
 }
